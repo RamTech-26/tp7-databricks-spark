@@ -94,4 +94,4 @@ aparece en **Catálogo → workspace → default**.
 
 ## Autoras
 
-Agustina y Romina – cátedra de Análisis de Datos en la Nube (prof. Luis A. Chiaramonte).
+Agustina Alvarez y Romina Hernandez – cátedra de Análisis de Datos en la Nube (prof. Luis A. Chiaramonte).
